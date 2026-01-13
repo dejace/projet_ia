@@ -1,0 +1,11 @@
+# Audio
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Fichiers générés
+*_output.wav
+
+# Docs locales (optionnel)
+*.pdf
